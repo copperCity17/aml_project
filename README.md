@@ -1,3 +1,3 @@
 # aml_project
 
-This project is about food image classification. The first part leverages four pretrained models for transfer learning, including VGG16, Xception, InceptionV16, and MobileNetV2. After training several epochs to achieve a certain accuracy rate, an ensemble method is used to average out the predictions.
+This project is about food image classification and our goal is to design and implement a feasible and creative architecture. The first part leverages four pretrained models for transfer learning, including VGG16, Xception, InceptionV16, and MobileNetV2. After training several epochs to achieve a certain accuracy rate, an ensemble method is used to average out the predictions.
